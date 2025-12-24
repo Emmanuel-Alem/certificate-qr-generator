@@ -81,7 +81,7 @@ def main():
     TEMPLATE_PATH = "original_certificate.png"  # Your original certificate
     OUTPUT_PATH = "certificate-yabsra-shiferaw.png"
     NAME = "Yabsra Shiferaw"
-    QR_URL = "https://yourusername.github.io/alx-certificate/certificate.html"  # Update with your GitHub Pages URL
+    QR_URL = "https://emmanuel-alem.github.io/certificate-qr-generator/index.html"  # Update with your GitHub Pages URL
     
     # Check if template exists
     if not os.path.exists(TEMPLATE_PATH):
